@@ -1,0 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/segoe-ui-variable');
+
+:root {
+    --font-primary: 'Segoe UI Variable'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+}
